@@ -18,7 +18,7 @@ $ npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-be
 
 ```sh
 $ npm install -g gatsby-cli
-$ gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
+$ gatsby new my-blog-starter https://github.com/byebyers/gatsby-starter-bee.git
 ```
 
 ## 2. Start developing.
